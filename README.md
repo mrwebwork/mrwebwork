@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/mrwebwork">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=1000&color=C6E7E4&multiline=true&width=500&height=100&lines=Allan+Hillman;Front-End+Dev+%7C+B.B.A.+in+CIS;Websites+%7C+Cybersecurity+%7C+Analytics" alt="SVG Typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=1000&color=C6E7E4&multiline=true&width=500&height=100&lines=Allan+Hillman;Software Engineer+%7C+B.B.A.+in+CIS;Websites+%7C+Cybersecurity+%7C+Analytics" alt="SVG Typing"/>
 </a>
 <br/>
 
