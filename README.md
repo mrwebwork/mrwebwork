@@ -25,9 +25,34 @@
 
 </p>
 
-* 💡 Open to collaborating on projects and innovative ideas. 
+## 🧑‍💻 Current Work
+- :office: Working as a Software Engineer at Giddy, an Austin-based sexual health and wellness company.
+- :briefcase: Offering freelance web development services on Fiverr.
 
-* 🚀 Currently diving into the world of Shopify Themes and Next.js, passionately building new projects and exploring innovative tech stacks. Always eager to embrace and master the latest technologies.
+## 🛠 Skills & Experience
+- :globe_with_meridians: Expert in HTML, CSS, JavaScript, React.js, Node.js and other technologies.
+- :construction_worker: Led migration of e-commerce stores from BigCommerce to Shopify, and integrated the ChatGPT API into search functionality.
+- :chart_with_upwards_trend: Consistently improving site performance and user experience.
+
+## 📚 Education
+- :mortar_board: Graduated from Texas State University with a Bachelor of Business Administration in Computer Information Systems.
+
+## 🤝 Collaboration
+- 💡 I'm always open to collaborating on interesting projects and innovative ideas. Whether you're looking for a hand to jump-start a project or need a new perspective on a current one, don't hesitate to reach out.
+
+## 🎯 Currently Exploring
+- 🚀 I'm diving deep into the world of Shopify Themes and Next.js, passionately building new projects and exploring new tech stacks. I'm always eager to learn, embrace, and master the latest technologies.
+
+## 👨‍🔬 Personal Interests & Hobbies
+- :athletic_shoe: Passionate explorer of Austin's trails and paddle-boarding enthusiast.
+- :runner: Firm believer in maintaining a balanced lifestyle that integrates personal growth with professional development.
+- :chess_pawn: Love strategy games and was the President of the Chess Club.
+- :moneybag: Founded the Cryptocurrency Club and navigated the complex world of digital currencies.
+
+## 🌿 Wellness & Balance
+- :sunny: Outside of the digital world, you'll find me running along the trails of Austin, paddleboarding on the river, or going for reflective walks.
+- :balloon: I believe in maintaining a healthy balance between personal growth and professional development. To me, a good day includes coding, outdoor activities, and time with loved ones.
+
 
 
 
