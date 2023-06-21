@@ -25,12 +25,12 @@
 
 </p>
 
-## 🧑‍💻 Current Work
+## 🧑‍💻 Professional Experience
 - :office: Working as a Software Engineer at Giddy, an Austin-based sexual health and wellness company.
 - :briefcase: Offering freelance web development services on Fiverr.
 
-## 🛠 Skills & Experience
-- :globe_with_meridians: Expert in HTML, CSS, JavaScript, React.js, Node.js and other technologies.
+## 🛠 Skills
+- :globe_with_meridians: Expert in HTML, CSS, JavaScript, React.js, Node.js, and other technologies.
 - :construction_worker: Led migration of e-commerce stores from BigCommerce to Shopify, and integrated the ChatGPT API into search functionality.
 - :chart_with_upwards_trend: Consistently improving site performance and user experience.
 
@@ -48,13 +48,6 @@
 - :runner: Firm believer in maintaining a balanced lifestyle that integrates personal growth with professional development.
 - :chess_pawn: Love strategy games and was the President of the Chess Club.
 - :moneybag: Founded the Cryptocurrency Club and navigated the complex world of digital currencies.
-
-## 🌿 Wellness & Balance
-- :sunny: Outside of the digital world, you'll find me running along the trails of Austin, paddleboarding on the river, or going for reflective walks.
-- :balloon: I believe in maintaining a healthy balance between personal growth and professional development. To me, a good day includes coding, outdoor activities, and time with loved ones.
-
-
-
 
 ## 📊 Statistics
 
