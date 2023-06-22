@@ -29,11 +29,6 @@
 - :office: Working as a Software Engineer at Giddy, an Austin-based sexual health and wellness company.
 - :briefcase: Offering freelance web development services on Fiverr.
 
-## 🛠 Skills
-- :globe_with_meridians: Expert in HTML, CSS, JavaScript, React.js, Node.js, and other technologies.
-- :construction_worker: Led migration of e-commerce stores from BigCommerce to Shopify, and integrated the ChatGPT API into search functionality.
-- :chart_with_upwards_trend: Consistently improving site performance and user experience.
-
 ## 📚 Education
 - :mortar_board: Graduated from Texas State University with a Bachelor of Business Administration in Computer Information Systems.
 
