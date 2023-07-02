@@ -26,7 +26,7 @@
 </p>
 
 ## 🧑‍💻 Professional Experience
-- :office: Working as a Software Engineer at Giddy, an Austin-based sexual health and wellness company.
+- :office: Working as a Front-End Engineer at Giddy, an Austin-based sexual health and wellness company.
 - :briefcase: Offering freelance web development services on Fiverr.
 
 ## 📚 Education
