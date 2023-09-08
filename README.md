@@ -26,7 +26,7 @@
 </p>
 
 ## Collaboration
-- I'm always open to collaborating on interesting projects and innovative ideas. Whether you're looking for a hand to jump-start a project or need a new perspective on a current one, don't hesitate to reach out
+- I'm always open to collaborating on interesting projects and innovative ideas, don't hesitate to reach out!
 
 ## Personal Interests & Hobbies
 - Trails
