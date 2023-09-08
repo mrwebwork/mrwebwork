@@ -25,26 +25,16 @@
 
 </p>
 
-## 🧑‍💻 Professional Experience
-- :office: Working as a Front-End Engineer at Giddy, an Austin-based sexual health and wellness company.
-- :briefcase: Offering freelance web development services on Fiverr.
+## Collaboration
+- I'm always open to collaborating on interesting projects and innovative ideas. Whether you're looking for a hand to jump-start a project or need a new perspective on a current one, don't hesitate to reach out.
 
-## 📚 Education
-- :mortar_board: Graduated from Texas State University with a Bachelor of Business Administration in Computer Information Systems.
+## Personal Interests & Hobbies
+- Passionate explorer of Austin's trails and paddle-boarding enthusiast.
+- Firm believer in maintaining a balanced lifestyle that integrates personal growth with professional development.
+- Love strategy games and was the President of the Chess Club.
+- Founded the Cryptocurrency Club and navigated the complex world of digital currencies.
 
-## 🤝 Collaboration
-- 💡 I'm always open to collaborating on interesting projects and innovative ideas. Whether you're looking for a hand to jump-start a project or need a new perspective on a current one, don't hesitate to reach out.
-
-## 🎯 Currently Exploring
-- 🚀 I'm diving deep into the world of Shopify Themes and Next.js, passionately building new projects and exploring new tech stacks. I'm always eager to learn, embrace, and master the latest technologies.
-
-## 👨‍🔬 Personal Interests & Hobbies
-- :athletic_shoe: Passionate explorer of Austin's trails and paddle-boarding enthusiast.
-- :runner: Firm believer in maintaining a balanced lifestyle that integrates personal growth with professional development.
-- :chess_pawn: Love strategy games and was the President of the Chess Club.
-- :moneybag: Founded the Cryptocurrency Club and navigated the complex world of digital currencies.
-
-## 📊 Statistics
+## Statistics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrwebwork&theme=solarized) 
 
