@@ -26,13 +26,12 @@
 </p>
 
 ## Collaboration
-- I'm always open to collaborating on interesting projects and innovative ideas. Whether you're looking for a hand to jump-start a project or need a new perspective on a current one, don't hesitate to reach out.
+- I'm always open to collaborating on interesting projects and innovative ideas. Whether you're looking for a hand to jump-start a project or need a new perspective on a current one, don't hesitate to reach out
 
 ## Personal Interests & Hobbies
-- Passionate explorer of Austin's trails and paddle-boarding enthusiast.
-- Firm believer in maintaining a balanced lifestyle that integrates personal growth with professional development.
-- Love strategy games and was the President of the Chess Club.
-- Founded the Cryptocurrency Club and navigated the complex world of digital currencies.
+- Trails
+- Paddle Boarding
+- Chess
 
 ## Statistics
 
