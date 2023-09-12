@@ -29,7 +29,7 @@
 - I'm always open to collaborating on interesting projects and innovative ideas!
 
 ## Personal Hobbies
-- Trails
+- Basketball
 - Paddle Boarding
 - Chess
 
