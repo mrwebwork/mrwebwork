@@ -26,9 +26,9 @@
 </p>
 
 ## Collaboration
-- I'm always open to collaborating on interesting projects and innovative ideas, don't hesitate to reach out!
+- I'm always open to collaborating on interesting projects and innovative ideas!
 
-## Personal Interests & Hobbies
+## Personal Hobbies
 - Trails
 - Paddle Boarding
 - Chess
