@@ -7,7 +7,7 @@
 <a href="https://allanhillman.com">
     <img src="https://img.shields.io/badge/Website-allanhillman.com-red?style=flat-square">
 </a>  
-<a href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:82171787-3dcf-4c67-8eef-d00d3e63eabc">
+<a href="https://allanhillman.com/Allan-Hillman-Front-End-Web-Engineer-Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href="https://www.linkedin.com/in/allanhillman/">
