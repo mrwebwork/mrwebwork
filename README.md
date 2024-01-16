@@ -26,12 +26,13 @@
 </p>
 
 ## Collaboration
-- I'm always open to collaborating on interesting projects and innovative ideas!
+- I'm always open to collaboration on interesting projects, connect with me!
 
 ## Personal Hobbies
 - Basketball
 - Paddle Boarding
 - Chess
+- Skydiving
 
 ## Statistics
 
