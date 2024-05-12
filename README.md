@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/mrwebwork">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=1000&color=C6E7E4&multiline=true&width=500&height=100&lines=Allan+Hillman;Full-Stack Engineer+%7C+B.B.A.+in+CIS;Consulting+%7C+AI+%7C+Websites+%7C+Cybersecurity" alt="Allan Hillman Technical Skills and Education Section"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=1000&color=C6E7E4&multiline=true&width=500&height=100&lines=Allan+Hillman;Full-Stack Engineer+%7C+B.B.A.+in+CIS;AI Engineer+%7C+Web Dev+%7C+Cyber" alt="Allan Hillman Technical Skills and Education Section"/>
 </a>
 <br/>
 
@@ -24,15 +24,6 @@
 </a>
 
 </p>
-
-## Collaboration
-- I'm always open to collaboration on interesting projects, connect with me!
-
-## Personal Hobbies
-- Basketball
-- Paddle Boarding
-- Chess
-- Skydiving
 
 ## Statistics
 
