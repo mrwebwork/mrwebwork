@@ -1,15 +1,7 @@
 <p align="center">
-<a href="https://github.com/mrwebwork">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=1000&color=C6E7E4&multiline=true&width=500&height=100&lines=Allan+Hillman;Full-Stack Engineer+%7C+B.B.A.+in+CIS;AI Engineer+%7C+Web Dev+%7C+Cyber" alt="Allan Hillman Technical Skills and Education Section"/>
-</a>
-<br/>
-
 <a href="https://allanhillman.com">
     <img src="https://img.shields.io/badge/Website-allanhillman.com-red?style=flat-square">
 </a>  
-<a href="https://allanhillman.com/Allan-Hillman-Front-End-Web-Engineer-Resume.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>
 <a href="https://www.linkedin.com/in/allanhillman/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
